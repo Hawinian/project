@@ -1,1 +1,19 @@
 Antoni Buczek
+enp1s0    Link encap:Ethernet  HWaddr e0:d5:5e:25:6b:ce  
+          inet addr:192.168.3.124  Bcast:192.168.255.255  Mask:255.255.0.0
+          inet6 addr: fe80::9e20:d286:cb62:170a/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:188351 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:83254 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:243902041 (243.9 MB)  TX bytes:6915476 (6.9 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:758 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:758 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:139761 (139.7 KB)  TX bytes:139761 (139.7 KB)
+
